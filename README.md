@@ -2,8 +2,9 @@
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+# Big Data and Social Analytics Certificate course, Massachusetts Institute of Technology 2017
+* Masters of Information Technology, University of Southern Queensl,and, 2004-2007
+* Bachelors of Commerce, Ryerson University, 1993-1997
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
