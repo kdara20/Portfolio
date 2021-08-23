@@ -2,6 +2,7 @@
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
+
 * Big Data and Social Analytics Certificate course, Massachusetts Institute of Technology 2017
 * Masters of Information Technology, University of Southern Queensl,and, 2004-2007
 * Bachelors of Commerce, Ryerson University, 1993-1997
