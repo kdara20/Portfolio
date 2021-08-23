@@ -12,6 +12,15 @@ This project integrates various news source for performing sentiment analysis pe
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
+Photo by 
+ <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+   André François McKenzie
+ </a> on 
+ <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+   Unsplash
+ </a>
+![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
@@ -20,9 +29,10 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Output:** Trading signals triggers buying and selling
 
 Photo by 
- <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-   André François McKenzie
+ <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+   Maxim Hopman
  </a> on 
- <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+ <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
    Unsplash
  </a>
+![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
