@@ -1,4 +1,4 @@
-# John Doe
+# Kevin Dara
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
